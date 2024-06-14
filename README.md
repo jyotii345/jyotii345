@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning kafka and spark
 - 💞️ I’m looking to collaborate on big projects
-- 📫 Reach me out via upwork
+- 📫 Reach me out via upwork https://www.upwork.com/freelancers/jyotij24
 - ⚡ Fun fact: Life is Codeless but we need coding to make things happen.
 
 <!---
